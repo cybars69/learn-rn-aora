@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "JSM-course",
-    "slug": "JSM-course",
+    "name": "JSM - RN Course",
+    "slug": "JSM-RN-course",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "arssapp",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
